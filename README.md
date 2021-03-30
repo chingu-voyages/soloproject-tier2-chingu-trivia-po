@@ -34,15 +34,11 @@ Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You
 can also find more information about the User Stories 
 [here](https://docs.chingu.io/projres/agile101#building-the-backlog)
 
-Your task for this Solo Project is to **_create Users Stories and/or tasks_** 
-for the [Requirements](#requirements) listed below.
-Feel free to add questions or additional comments in the User Stories that you 
-feel would be helpful to team members working on it.
-
 ### What You Need to Do
 
 Your task for this Solo Project is to **_create Users Stories and/or tasks_** 
 for the [Requirements](#requirements) listed below.
+
 Feel free to add questions or additional comments in the User Stories that you 
 feel would be helpful to team members working on it.
 
