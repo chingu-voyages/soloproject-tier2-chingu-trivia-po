@@ -2,11 +2,18 @@
 
 ## Overview 
 
-As a Product Owner this project is a great opportunity to demonstrate your organization skills to help a team who will develop this clean and modern webpage. 
+As a Product Owner this project is a great opportunity to demonstrate your 
+organization skills to help a team who will develop this clean and modern 
+webpage. 
 
-You are currently on the **Tier 2 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories and Tasks from the requirements listed below.
+You are currently on the **Tier 2 repo** and this Solo Project is only for 
+Product Owners **not** Developers. You'll be responsible for creating User 
+Stories and Tasks from the requirements listed below 
+(see [Instructions](#instructions)).
 
-As you increase your Product Owner skills and experience you'll be able to come back to this project and enhance it for the Tier 3 version. Ultimately you'll have a great portfolio piece to share with interviewers.
+As you increase your Product Owner skills and experience you'll be able to 
+come back to this project and enhance it for the Tier 3 version. Ultimately 
+you'll have a great portfolio piece to share with interviewers.
 ## About Chingu
 
 If you aren’t yet a member of Chingu we invite you to join us. We help our 
@@ -22,14 +29,31 @@ You can learn more and join us at [chingu.io](https://chingu.io).
 
 ## Instructions
 
-General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You can also find more information about the User Stories [here](https://docs.chingu.io/projres/agile101#building-the-backlog)
+General instructions for all Pre-Work Projects can also be found in the Chingu 
+Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You 
+can also find more information about the User Stories 
+[here](https://docs.chingu.io/projres/agile101#building-the-backlog)
 
-Your task for this Solo Project is to create Users Stories and/or tasks for 
-[Requirements](#requirements) below.
+Your task for this Solo Project is to **_create Users Stories and/or tasks_** 
+for the [Requirements](#requirements) listed below.
 Feel free to add questions or additional comments in the User Stories that you 
 feel would be helpful to team members working on it.
 
-You may create your User Stories and tasks as text file or in the tool of your choice (like ZenHub, Notion, Trello, etc.). Remember that you don't neet to worry about technical details. What's important is to demonstrate your ability to create a set of tasks a team could follow to build the app.
+### What You Need to Do
+
+Your task for this Solo Project is to **_create Users Stories and/or tasks_** 
+for the [Requirements](#requirements) listed below.
+Feel free to add questions or additional comments in the User Stories that you 
+feel would be helpful to team members working on it.
+
+> Remember your task for this Solo Project is to create User Stories from 
+the [Requirements](#requirements), **_not_** to create a working version of 
+the app!
+
+You may create your User Stories and tasks as text file or in the tool of your 
+choice (like ZenHub, Notion, Trello, etc.). Remember that you don't neet to 
+worry about technical details. What's important is to demonstrate your ability 
+to create a set of tasks a team could follow to build the app.
 
 #### Requirements
 
